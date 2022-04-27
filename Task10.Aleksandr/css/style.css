@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    bottom: 0;
+    box-sizing: border-box;
+}
+
+.date i {
+    color: #00bac6;
+    margin-right: 6px;
+}
+
+.contacts a {
+    display: block;
+    text-decoration: none;
+    color: #c1c1c1;
+}
+
+.contacts a i {
+    color: #00bac6;
+    margin-right: 21px;
+}
+
+.footer-top {
+    background-color: #504d4c;
+    padding: 40px 0;
+}
+
+.footer-bottom {
+    background-color: #292221;
+}
+
+h3 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #c1c1c1;
+}
+
+.bor {
+    border-bottom: solid 1px #c1c1c1;
+    padding-bottom: 22px;
+}
